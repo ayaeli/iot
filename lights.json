@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_featureType": "point",
+                "type": "light",
+                "label": "Green",
+				"hsl_color" : "hsl(122, 100%, 50%)",
+				"on" : "1",
+				"tooltip" : "I'm a green",
+                "_type": "Point",
+                "_id": "Point_188"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    672,
+                    435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_featureType": "point",
+                "type": "light",
+                "label": "yellow",
+				"hsl_color" : "hsl(58, 100%, 50%)",
+				"on" : "1",
+				"tooltip" : "I'm a yellow",				
+                "_type": "Point",
+                "_id": "Point_192"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    672,
+                    510
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_featureType": "point",
+                "type": "light",
+                "label": "Red",
+				"hsl_color" : "hsl(0, 100%, 50%)",
+				"on" : "1",
+				"tooltip" : "I'm a red",				
+                "_type": "Point",
+                "_id": "Point_192"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    672,
+                    586
+                ]
+            }
+        }
+    ]
+}
