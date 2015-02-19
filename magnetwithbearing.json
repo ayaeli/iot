@@ -1,0 +1,77 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_featureType": "point",
+                "type": "magnet",
+                "label": "Avi",
+                "_type": "Point",
+				"direction" : "15",
+                "_id": "Point_188"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    462.85,
+                    699.45
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_featureType": "point",
+                "type": "magnet",
+                "label": "Peter",
+				"direction" : "30",
+                "_type": "Point",
+                "_id": "Point_192"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    605.85,
+                    696.85
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_featureType": "point",
+                "type": "magnet",
+				"direction" : "45",
+                "label": "Allan",
+                "_type": "Point",
+                "_id": "Point_196"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    759.25,
+                    700.75
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_featureType": "point",
+                "type": "magnet",
+                "label": "Roger",
+				"direction" : "90",
+                "_type": "Point",
+                "_id": "Point_200"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1007.55,
+                    535.65
+                ]
+            }
+        }
+    ]
+}
