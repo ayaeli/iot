@@ -28,7 +28,7 @@
                 "type": "light",
                 "label": "yellow",
 				"hsl_color" : "hsl(58, 100%, 50%)",
-				"on" : "1",
+				"on" : "0",
 				"tooltip" : "I'm a yellow",				
                 "_type": "Point",
                 "_id": "Point_192"
