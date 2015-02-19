@@ -16,8 +16,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    672,
-                    435
+                    
+                    435,672
                 ]
             }
         },
@@ -36,8 +36,9 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    672,
-                    510
+                    510,
+					672
+                    
                 ]
             }
         },
@@ -56,8 +57,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    672,
-                    586
+                    586,672
+                    
                 ]
             }
         }
